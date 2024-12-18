@@ -6,7 +6,7 @@ Cryo-electron tomography (cryoET) generates 3D images of biological samples at a
 
 CryoET data analysis can be difficult and time consuming. Therefore, the development of software and machine learning (ML) methods that can speed up data processing is essential to propel advances in the cryoET field. The schematic below highlights the time it takes to process images to obtain molecular structures.
 
-<img src="Figures/workflow_timeline.png" width = "400">
+<img src="Figures/workflow_timeline.png" width = "700">
 
 CryoET image processing workflow ([cryoet-data-portal](https://github.com/chanzuckerberg/cryoet-data-portal/blob/main/docs/cryoet_workflow.md)) showing the time it takes to get through each step.
 
