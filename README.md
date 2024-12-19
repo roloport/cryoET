@@ -8,7 +8,7 @@ CryoET data analysis can be difficult and time consuming. Therefore, the develop
 
 <img src="Figures/workflow_timeline.png" width = "700">
 
-CryoET image processing workflow ([cryoet-data-portal](https://github.com/chanzuckerberg/cryoet-data-portal/blob/main/docs/cryoet_workflow.md)) showing the time it takes to get through each step.
+CryoET image processing workflow ([cryoet-data-portal] showing the time it takes to get through each step.
 
 This portfolio focus using deep learning to automate the object detection and annotation step, including codes to accomplish: 
 * Model training 
