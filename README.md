@@ -13,4 +13,6 @@ CryoET image processing workflow showing the time it takes to get through each s
 This portfolio focus using deep learning to automate the object detection and annotation step, including codes to accomplish: 
 * Model training 
 * Inference
-* Evaluation 
+* Evaluation
+
+(code is under revision)
