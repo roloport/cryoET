@@ -15,4 +15,4 @@ This portfolio focus using deep learning to automate the object detection and an
 * Inference
 * Evaluation
 
-(code is under revision)
+(code is under revision, please feel free to contact me regarding interests)
