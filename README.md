@@ -15,4 +15,8 @@ This portfolio focus using deep learning to automate the object detection and an
 * Inference
 * Evaluation
 
+*One example from the inference results:*
+
+<img src="Figures/Inference_example.png" width = "500">
+
 (code is under revision, please feel free to contact me regarding interests)
